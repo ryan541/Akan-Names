@@ -1,0 +1,18 @@
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=number], input[type=number] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: blue;
+}
+
+input[type=number]:focus, input[type=number]:focus {
+  background-color: #ddd;
+  outline: none;
+}

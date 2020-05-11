@@ -1,0 +1,62 @@
+body{
+  background-image: url("https://bit.ly/2oeSNCk");
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+.twi{
+  color:black;
+  text-align: center;
+}
+
+.blur{
+  background: white;
+  width: 500px;
+  margin: 12% auto;
+  padding: 20px 0;
+}
+#akan-name{
+  font-weight: bold;
+  font-style: italic;
+}
+#akan-wrapper{
+  display: none;
+  text-align: center;
+}
+.akan-intro{
+  text-align: center;
+  color: orange;
+  font-weight: bold;
+}
+.form-group{
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.right-side{
+  float: right;
+  width: 100%;
+}
+#warning{
+  display: none;
+  border-radius: 5px;
+  padding: 5px;
+  background: yellow;
+  color: black;
+}
+#year-warning{
+  display: none;
+  border-radius: 5px;
+  padding: 5px;
+  background: yellow;
+  color: black;
+  width: 100%;
+}
+.radio{
+  color: #000;
+}
+
+#output{
+  background: chartreuse;
+  text-align: center;
+}
