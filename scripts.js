@@ -1,7 +1,5 @@
 function hp (){ 
   //Numeric and error variables
-  let century = document.getElementById("century").value;
-  let cc = parseInt(century)
   let day = document.getElementById("day").value;
   let dd = parseInt(day)
   //let ErrMssg = document.getElementById('warning');
