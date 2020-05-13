@@ -17,7 +17,7 @@ and run it in the local repo
 
 Details:
 Ryan Warui:ryanmwaniki60@gmail.com
-link:https://github.com/ryan541/Akan-Names
+link:https://ryan541.github.io/Akan-Names/ 
 
 Licence:
 Copyright <2020> <Ryan Mwaniki>
