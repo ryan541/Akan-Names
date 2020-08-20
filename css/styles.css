@@ -60,3 +60,10 @@ body{
   background: chartreuse;
   text-align: center;
 }
+.bold{
+  font-family: 'Calligraffitti', cursive;
+  font-size: 40px;
+}
+.twi{
+  font-family: 'Merienda One', cursive;
+}
